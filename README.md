@@ -1,15 +1,16 @@
 # PhyloMetarep
 
 ### Phylo-METAREP DIRECTORIES
-
-* /app     		web application files
-* /cake    		cake framework files
-* /data    		example datasets
-* /scripts 		Perl and R scripts
-* /doc     		documentation
-* /db      		relational databases  
-* /solr   		solr/lucene configuration files
-* /vendors 		3rd-party php tools
+| folder | description
+|-----------|------------------------------------|
+|/app     	|	web application files            |
+|/cake    	|	cake framework files             |
+|/data    	|	example datasets                 |
+|/scripts 	|	Perl and R scripts               |
+|/doc     	|	documentation                    |
+|/db      	|	relational databases             |
+|/solr   	|	solr/lucene configuration files  |
+|/vendors 	|	3rd-party php tools              |
 
 ### INSTALLATION AND ADDTIONAL INFORMATION
 This project is a branch from the original METAREP project (v1.3.4), https://github.com/jcvi/METAREP. Please visit the project's wiki page at http://wiki.github.com/jcvi/METAREP for additional information. The METAREP 1.3.2 installation guide can be found at https://github.com/jcvi/METAREP/wiki/Installation-Guide-v-1.3.2
