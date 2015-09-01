@@ -1,0 +1,21 @@
+## sqlite parameters
+sqlitedb=path
+
+## mysql parameters
+mysqldb=user
+mysqldb=pwd
+mysqldb=host
+mysqldb=port
+
+## lucene/solr parameters
+solr_master_host=localhost:1234
+solr_slave_host=localhost:1234
+solr_data_dir=/solr-index
+solr_instance_dir=<your-solr-installation>
+solr_local_dir=<your-solr-installation>/solr-scripts
+solr_post_jar=<your-solr-installation>/solr-scripts/post.jar
+solr_min_memory=156m
+solr_max_memory=2640m
+
+## path were formatdb-formatted sequences are to be stored
+sequence_store=<your-seq-stor-directory>
