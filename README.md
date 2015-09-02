@@ -18,6 +18,7 @@ This project is a branch from the original METAREP project (v1.3.4), https://git
 See changes to METAREP installation in INSTALL.txt<br>
 https://github.com/allenlab/PhyloMetarep/blob/master/INSTALL.txt
 
+Additional data, including PhyloDB, can be found here: https://scripps.ucsd.edu/labs/aallen/data
 
 ### VIDEO DOCUMENTATION
 5 min overview<br>
